@@ -11,3 +11,4 @@ estudiantes:
 - Mafer Carrillo [Mafercarrillo15](https://github.com/Mafercarrillo15)
 - gabriel gonzalez  [gaedgoja](https://github.com/gaedgoja)
 - Said Rodríguez [DanSaid](https://github.com/DanSaid)
+- Luis Perez H   [luis61803](https://github.com/luis61803)
